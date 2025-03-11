@@ -4,7 +4,7 @@
 # between the top bar and the list of recent posts.
 #
 layout: home
-title: Jekyll Website Template
+title:SCHH Hudson Valley Friends
 list_title: 
 ---
 
