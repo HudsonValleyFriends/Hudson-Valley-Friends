@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HVF Next eVent
+title: HVF Next Event
 description: April 30, 2025 Mighty Eighth Museum Trip.
 date: 2025-03-05
 author: John Doe
