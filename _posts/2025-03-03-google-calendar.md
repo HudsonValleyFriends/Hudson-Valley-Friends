@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Post with a Google Calendar
-description: Example post using an IFrame to embed a Google Calendar.
+title: HVF Next eVent
+description: April 30, 2025 Mighty Eighth Museum Trip.
 date: 2025-03-05
 author: John Doe
 tags: iframe
